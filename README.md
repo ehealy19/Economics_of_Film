@@ -1,5 +1,7 @@
 # The Economics of Film: An Investigation of the Financial Interplay Between Film Releases and Stock Market Trends
 
+**PLEASE NOTE THIS PROJECT WAS ORIGINALLY BASED ON A REPOSITORY COMPLETED AS PART OF DSAN5300 AT GEORGETOWN UNIVERSITY. IT HAS BEEN COPIED TO MY PERSONAL GITHUB FOR VIEWING PURPOSES.**
+
 ## Group Members
 
 Member-1: Lizzie Healy\
